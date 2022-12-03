@@ -7,17 +7,16 @@
 ```HTML
     <html lang="en">
     <head>
-        <title>Document
-            <body>
-                guvi
-        </title>
+        <title>Document</title>
     </head>
+        <body>
+                guvi
     <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
-            <div>
-                Guvi Geek Network
-            </div>
+    </div>
+    <div>
+        Guvi Geek Network
+    </div>
         </body>
     </html>
 ```
@@ -26,13 +25,13 @@
 ```HTML
 <html lang="en">
     <head>
-        <title>Document
-            <body>
-                guvi
+        <title>Document</title>
     </head>
+    <body>
+                guvi
     <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
+        </div>
             <div>
                 Guvi Geek Network
             </div>
@@ -90,7 +89,6 @@
 10. In your, HTML page add the below line and Highlight it without using any CSS.
 
 - "HTML & CSS is awesome"
-
----
+Answer: 
 
 11. Create an HTML page, which should contain all types of input elements.
